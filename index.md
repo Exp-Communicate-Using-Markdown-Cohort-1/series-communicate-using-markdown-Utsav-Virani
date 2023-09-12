@@ -1,14 +1,16 @@
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6 
+# First Markdown Tutorial
+![An image illustration in Markdown](https://octodex.github.com/images/yaktocat.png)
 
-- Learning about `.md file`.
-  
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+~~~
+@Bean
+public PasswordEncoder passwordEncoder()
+{
+  return (new BcryptPasswordEncoder());
+}
+~~~
 
-```
-git init
-```
+### This is my task list
+- [x] Using header in markdown
+- [x] Adding image to markdown
+- [x] Adding tasks' checklist to markdown
+- [ ] Merging pull request
