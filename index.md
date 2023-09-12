@@ -5,13 +5,6 @@
 ##### Header 5
 ###### Header 6 
 
-![Image of something from github](https://octodex.github.com/images/yaktocat.png)
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself
+- Learning about `.md file`.
+  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
