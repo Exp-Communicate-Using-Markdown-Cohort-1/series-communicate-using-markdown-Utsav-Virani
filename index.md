@@ -13,4 +13,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Introduce myself to the world
 
 
-### I have made some changes to learn more about the `.md` files.
+### I have made changes to learn more about the `.md` files.
